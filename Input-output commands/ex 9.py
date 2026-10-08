@@ -1,0 +1,8 @@
+#Задача 9
+
+word1 = input()
+word2 = input()
+word3 = input()
+print(word3)
+print(word2)
+print(word1)
