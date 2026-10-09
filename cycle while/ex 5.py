@@ -3,11 +3,11 @@
 password1 = input()
 password2 = input()
 
-if len(password1) < 8:
-    print("Слишком короткий!")
-
-elif password1 != password2:
+if  password1 != password2:
     print("Пароли не совпадают!")
+
+elif len(password1) < 8:
+    print("Слишком короткий!")
 
 else:
     print("OK")
