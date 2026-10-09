@@ -1,4 +1,4 @@
-# Задача 5
+#Задача 5
 
 password1 = input()
 password2 = input()
