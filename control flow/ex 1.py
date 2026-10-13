@@ -8,4 +8,4 @@ for i in range(5):
 if is_found:
     print('МЯУ')
 else:
-    print('Кот не найден')
+    print('НЕТ')
