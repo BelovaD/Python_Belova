@@ -17,5 +17,5 @@ if len(result) == 0:
 else:
     list = sorted(result)
     
-    for num in list:
-        print(num, end=" ")
+    for n in list:
+        print(n, end=" ")
