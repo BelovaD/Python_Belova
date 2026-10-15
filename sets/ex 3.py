@@ -15,9 +15,9 @@ while True:
         break
     set2.add(int(line))
 
-common_elements = set1 & set2
+elements = set1 & set2
 
-if common_elements:
-    print(*(common_elements))
+if elements:
+    print(*(elements))
 else:
     print("EMPTY")
