@@ -1,4 +1,4 @@
-#Задача 9
+#Задача 10
 
 n = int(input())
 result_tuples = []
