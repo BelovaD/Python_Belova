@@ -3,5 +3,4 @@
 text = input()
 words = text.split()
 
-print()
-print("\n".join(words))
+print(f"\n".join(words))
