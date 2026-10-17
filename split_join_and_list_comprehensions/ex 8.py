@@ -6,7 +6,6 @@ parameters = query_string.split("&")
 
 for param in parameters:
     if param.startswith("q="):
-        value = param.split("=")[1]
-        
-        print(f"\n{value}")
-        break
+        value = param.split("=")[1]    
+print(f"\n{value}")
+
